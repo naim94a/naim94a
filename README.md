@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Testing GitHub's profile README.md...
+Apperantly, GitHub allows you to create a repository with your own name and show it's readme on your profile - [like this](https://github.com/naim94a).
